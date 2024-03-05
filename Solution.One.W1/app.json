@@ -10,7 +10,20 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+  		"id": "1c95adcb-05b5-4310-b2cd-4fb4412adfa5",
+  		"name": "Common",
+  		"publisher": "azubka-eip",
+  		"version": "1.0.0.0"
+    },
+    {
+  		"id": "52cf01b0-7b59-454e-8ef3-863ba7b80701",
+  		"name": "Licensing",
+  		"publisher": "azubka-eip",
+  		"version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
